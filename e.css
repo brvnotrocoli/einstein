@@ -1,0 +1,62 @@
+/* ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ 
+
+YOUR CUSTOM EINSTEIN CONFIG
+
+ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;800;900&display=swap');
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+:root {
+    --e-color1: #bdbdbd;
+    --e-color2: #1e90ff;
+    --e-color3: #1e90ff;
+    --e-color4: #1e90ff;
+    --e-color5: #1e90ff;
+}
+
+
+/* ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ 
+
+START EINSTEIN - DON'T NEED EDIT THIS
+
+ΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞΞ */
+
+#help {
+    font-size: 50px;
+}
+
+h1 {
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+
+/* unvisited link */
+
+a:link {
+    color: red;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: green;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: hotpink;
+}
+
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
